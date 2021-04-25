@@ -1,6 +1,3 @@
-import sqlite3
-import uuid
-
 import discord
 from discord.ext import commands
 
